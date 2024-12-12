@@ -16,7 +16,7 @@ const UsersList = () => {
 
   useEffect(() => {
     handleSearch(searchQuery);
-  }, [searchQuery, users]);
+  });
 
   const fetchUsers = async (pageNumber) => {
     try {
