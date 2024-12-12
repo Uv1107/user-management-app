@@ -1,6 +1,6 @@
 # EmployWise Assignment
 
-Project's deployed link: 
+Project's deployed link: https://sweet-concha-32bc69.netlify.app/
 
 ## About the Project
 
